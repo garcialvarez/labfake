@@ -8,6 +8,9 @@
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=garcialvarez_labfake&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=garcialvarez_labfake)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=garcialvarez_labfake&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=garcialvarez_labfake)
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=garcialvarez_labfake&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=garcialvarez_labfake)
+[![Known Vulnerabilities](https://snyk.io/test/github/{username}/{repo}/badge.svg)](https://snyk.io/test/github/garcialvarez/labfake)
+
+
 
 Implementation of a Simple App with the next operations:
 
